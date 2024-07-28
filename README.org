@@ -1,0 +1,9 @@
+* pem
+
+PEM parser.
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/fukamachi/pem.git |
+| commit  | 1ffb17e                                  |
+| systems | pem                                      |
+|---------+------------------------------------------|
