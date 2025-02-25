@@ -4,6 +4,6 @@ PEM parser.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/fukamachi/pem.git |
-| commit  | 1ffb17e                                  |
+| commit  | 4aaf819                                  |
 | systems | pem                                      |
 |---------+------------------------------------------|
